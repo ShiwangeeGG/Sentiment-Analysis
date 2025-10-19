@@ -30,5 +30,5 @@ The model achieved an accuracy of **85%** on the test set.
 
 ## Contributors
 
-* **Shiwangee Ghosh** - [Link to your GitHub profile later]
-* **Mahima Paithankar** - [Link to your partner's GitHub profile later]
+* **Shiwangee Ghosh** 
+* **Mahima Paithankar** 
