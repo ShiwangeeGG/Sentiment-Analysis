@@ -26,7 +26,7 @@ The model uses a sequential Keras architecture:
 
 ## Results
 
-The model achieved an accuracy of **[Enter Your Model's Accuracy Here]%** on the test set.
+The model achieved an accuracy of **85%** on the test set.
 
 ## Contributors
 
